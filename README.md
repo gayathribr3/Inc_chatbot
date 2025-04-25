@@ -4,11 +4,14 @@ An AI chatbot for answering insurance-related queries using LIC policy data.
 
 ## Features
 
+
 1. High-Speed Reasoning powered by DeepSeek R1, enabling rapid understanding of complex queries.
 2. Ultra-Fast Inference using Groq, ensuring near-instant responses.
 3. Robust LIC Knowledge Base trained specifically on LIC insurance policies, offering accurate and reliable answers.
 
 ---
+
+![WhatsApp Image 2025-04-24 at 22 58 08](https://github.com/user-attachments/assets/f0b89952-925d-40b2-a355-1da6fd1c53c4)
 
 ## 🔧 Setup Instructions
 
