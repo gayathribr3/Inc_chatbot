@@ -13,6 +13,10 @@ An AI chatbot for answering insurance-related queries using LIC policy data.
 
 ![WhatsApp Image 2025-04-24 at 22 58 08](https://github.com/user-attachments/assets/f0b89952-925d-40b2-a355-1da6fd1c53c4)
 
+Demo & voice over video:
+
+https://drive.google.com/file/d/17K66Gd2WzjMyGnj-4Mb8cyUHIY85eHx9/view?usp=sharing
+
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
